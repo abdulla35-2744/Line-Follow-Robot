@@ -1,0 +1,7 @@
+-lang=cpp
+-c
+-finfo
+-dir "C:\Users\Hp\Downloads\Compressed\MiconRacerDIU\MiconRacer\Debug"
+-silent
+-R8C
+"C:\Users\Hp\Downloads\Compressed\MiconRacerDIU\MiconRacer\Analog.cpp"

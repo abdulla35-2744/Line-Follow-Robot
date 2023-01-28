@@ -1,0 +1,4 @@
+-R8C
+-nofloat
+-output="C:\Users\Hp\Downloads\Compressed\MiconRacerDIU\MiconRacer\Debug\MiconRacer.lib"
+-O3
